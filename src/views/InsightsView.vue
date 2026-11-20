@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Transition guidance</span><h2>Investors need product categories they can understand and disclosures they can compare</h2><p>Fund managers and compliance teams can map existing products, indicators and notices into the simplified framework.</p></section></template>
